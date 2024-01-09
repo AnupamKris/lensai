@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">lensai</string>
+    <string name="title_activity_main">lensai</string>
+    <string name="package_name">com.tenzero.lensai</string>
+    <string name="custom_url_scheme">com.tenzero.lensai</string>
+</resources>

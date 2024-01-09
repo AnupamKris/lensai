@@ -1,0 +1,10 @@
+{
+  "appId": "com.tenzero.lensai",
+  "appName": "lensai",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "url": "http://192.168.175.139:5173/",
+    "cleartext": true
+  }
+}
